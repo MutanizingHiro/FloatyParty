@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 740542239118c3841af5658b9acec440
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8675685239354174741
+    second: splashEffect_0
+  - first:
+      213: 6770282914356275931
+    second: splashEffect_1
+  - first:
+      213: 2443114341805142928
+    second: splashEffect_2
+  - first:
+      213: -5728607113806699285
+    second: splashEffect_3
+  - first:
+      213: 317328191770524148
+    second: splashEffect_4
+  - first:
+      213: -8608798590061469334
+    second: splashEffect_5
+  - first:
+      213: -8066133583380116892
+    second: splashEffect_6
+  - first:
+      213: -1227304431798794346
+    second: splashEffect_7
+  - first:
+      213: -5858638160453915125
+    second: splashEffect_8
+  - first:
+      213: -892785129636816352
+    second: splashEffect_9
+  - first:
+      213: -1845691982549047237
+    second: splashEffect_10
+  - first:
+      213: 3622436951919605236
+    second: splashEffect_11
+  - first:
+      213: 8747102917155951291
+    second: splashEffect_12
+  - first:
+      213: -4385695799462981884
+    second: splashEffect_13
+  - first:
+      213: 8848770613374967100
+    second: splashEffect_14
+  - first:
+      213: -1433994747274058631
+    second: splashEffect_15
+  - first:
+      213: -4089239379149215026
+    second: splashEffect_16
+  - first:
+      213: -7101883662511629780
+    second: splashEffect_17
+  - first:
+      213: 8473169176331552542
+    second: splashEffect_18
+  - first:
+      213: 9014896468285224191
+    second: splashEffect_19
+  - first:
+      213: -5903304856562373178
+    second: splashEffect_20
+  - first:
+      213: 3672627242108019236
+    second: splashEffect_21
+  - first:
+      213: 1305074997264007104
+    second: splashEffect_22
+  - first:
+      213: -1210709702881304430
+    second: splashEffect_23
+  - first:
+      213: -8547284910848182007
+    second: splashEffect_24
+  - first:
+      213: -3245551755933120682
+    second: splashEffect_25
+  - first:
+      213: 5956497366514234592
+    second: splashEffect_26
+  - first:
+      213: 4499858185971612446
+    second: splashEffect_27
+  - first:
+      213: 8595821511428295744
+    second: splashEffect_28
+  - first:
+      213: -4102583742030714772
+    second: splashEffect_29
+  - first:
+      213: 1933951773044438070
+    second: splashEffect_30
+  - first:
+      213: 9016462644006453245
+    second: splashEffect_31
+  - first:
+      213: 6198920594038903742
+    second: splashEffect_32
+  - first:
+      213: 4030635557122311951
+    second: splashEffect_33
+  - first:
+      213: -8905179617937224783
+    second: splashEffect_34
+  - first:
+      213: 9076994801761439396
+    second: splashEffect_35
+  - first:
+      213: -2252901944975523097
+    second: splashEffect_36
+  - first:
+      213: 8264948039832438972
+    second: splashEffect_37
+  - first:
+      213: 6589548831013772693
+    second: splashEffect_38
+  - first:
+      213: -6538899622339140671
+    second: splashEffect_39
+  - first:
+      213: 1136333756908841905
+    second: splashEffect_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: splashEffect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1c0259b4f466643a02e18e71b52b1e
+      internalID: 144081063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splashEffect_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25002c283564f6b499754a6cf5ab0396
+      internalID: 733893203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splashEffect_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 190
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb061fbf3308490478a104cf2ba637dc
+      internalID: -1808633367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splashEffect_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad4bd5a42ec584c8f8040abfedc79c
+      internalID: 1088360812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splashEffect_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4275ce1a49e04f044a8a28eec9c89ea1
+      internalID: -967434232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splashEffect_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 210
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4f398c0aa4e644f9aeade15615776b
+      internalID: -1400964016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f7bea8f4fdbf9d742babb1efe4e9506b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      splashEffect_0: 144081063
+      splashEffect_1: 733893203
+      splashEffect_2: -1808633367
+      splashEffect_3: 1088360812
+      splashEffect_4: -967434232
+      splashEffect_5: -1400964016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

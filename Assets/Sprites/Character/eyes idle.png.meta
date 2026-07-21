@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 8486c613fafb2254a87800d1b16fe1aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5683584879035772172
+    second: eyes idle_0
+  - first:
+      213: 5068149902762955660
+    second: eyes idle_1
+  - first:
+      213: -6701132718516653473
+    second: eyes idle_2
+  - first:
+      213: 2356953910313455418
+    second: eyes idle_3
+  - first:
+      213: 2426086157476902430
+    second: eyes idle_4
+  - first:
+      213: -1214345826069455372
+    second: eyes idle_5
+  - first:
+      213: 8603477359628719872
+    second: eyes idle_6
+  - first:
+      213: 803642880136165600
+    second: eyes idle_7
+  - first:
+      213: 284759190510929581
+    second: eyes idle_8
+  - first:
+      213: 7271893164142491462
+    second: eyes idle_9
+  - first:
+      213: 6904908230629782545
+    second: eyes idle_10
+  - first:
+      213: 8715539846688153310
+    second: eyes idle_11
+  - first:
+      213: 29667736967352681
+    second: eyes idle_12
+  - first:
+      213: 3609190826086211333
+    second: eyes idle_13
+  - first:
+      213: 6953074555465691823
+    second: eyes idle_14
+  - first:
+      213: 33281897508662835
+    second: eyes idle_15
+  - first:
+      213: 6663573870868748371
+    second: eyes idle_16
+  - first:
+      213: -7850509809427533091
+    second: eyes idle_17
+  - first:
+      213: -6118294456250181479
+    second: eyes idle_18
+  - first:
+      213: 2650656896958022074
+    second: eyes idle_19
+  - first:
+      213: 566719773010904747
+    second: eyes idle_20
+  - first:
+      213: 2806234591208127955
+    second: eyes idle_21
+  - first:
+      213: 4858998228279225282
+    second: eyes idle_22
+  - first:
+      213: -2346160785051711894
+    second: eyes idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eyes idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 170
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbdbb4ee9afdc644846d8042f53b174
+      internalID: 428277038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyes idle_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 140
+        width: 170
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e01d3f7b66e2e9468a4be8f1014cf21
+      internalID: 462200693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyes idle_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 140
+        width: 170
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ce5d96d776bf44b879cb8ebba272aa
+      internalID: 178689676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyes idle_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6d14d94c33ed74e87ddf1ee1491167
+      internalID: -2015667215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyes idle_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 170
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb0060fafd45c94588d21b554a5ed73
+      internalID: -415540818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyes idle_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 170
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a847c6703882748ad6dde0fbb7c4b0
+      internalID: -797226159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8812b07dd34807c4f9f87f51b62a16f5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eyes idle_0: 428277038
+      eyes idle_1: 462200693
+      eyes idle_2: 178689676
+      eyes idle_3: -2015667215
+      eyes idle_4: -415540818
+      eyes idle_5: -797226159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

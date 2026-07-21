@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ball
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - EnemyLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SeaSpriteSort
+    uniqueID: 2861066825
+    locked: 0
+  - name: EnemySpriteSort
+    uniqueID: 3382782883
+    locked: 0
+  - name: MainGameSorting
+    uniqueID: 4170061149
+    locked: 0
+  - name: UIElementSorting
+    uniqueID: 4032895563
+    locked: 0
+  m_RenderingLayers:
+  - Default

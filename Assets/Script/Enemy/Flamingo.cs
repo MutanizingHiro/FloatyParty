@@ -1,0 +1,115 @@
+using UnityEngine;
+
+public class Flamingo : MonoBehaviour , IPlayerDamageable
+{
+    Vector2 pos;
+    //HP
+    public int Break;
+
+    public float damageTimer;
+
+    public float enemySpeedmin;
+
+    public float stoppingPointX;
+
+    public float deathDestionation;
+
+    //animation
+    private Animator anim;
+    [SerializeField] private GameObject popEffect;
+
+    //audio
+    [SerializeField] AudioSource audioSource;
+    [SerializeField] AudioClip audioDeath;
+
+    public enum State
+    {
+        move,   //�O�i��
+        damage,  //�_���[�W���󂯂�
+        stop    //�~�܂�
+    }
+    State state;
+    void Start()
+    {
+        state = State.move;
+        pos = transform.position;
+
+        anim = GetComponent<Animator>();
+
+        audioSource = GetComponent<AudioSource>();
+    }
+    void Update()
+    {
+        switch (state)
+        {
+            case State.move:
+
+                //movement stop condition
+                if(transform.position.x > stoppingPointX)
+                {
+                    pos.x += Time.deltaTime * -enemySpeedmin;
+                    transform.position = pos;
+                    anim.Play("FloatingAnimation");
+                }
+                else
+                {
+                    state = State.stop;
+                    anim.Play("IdleAnimation");
+                }
+                    break;
+            case State.damage:
+                EDamage();
+                break;
+            case State.stop:
+                StopGuard();
+                break;
+
+        }
+
+        //���ʂƂ���|�C���g
+        if (transform.position.x < deathDestionation)
+        {
+            Destroy(this.gameObject);
+            Instantiate(popEffect, transform.position, transform.rotation);
+        }
+    }
+
+
+    public void Hit(int damage)     //�_���[�W����
+    {
+        Break -= damage;
+
+        E_HP Hscript = GetComponent<E_HP>();     //�����I�u�W�F�N�g��HP�o�[�X�N���v�g�Ăяo��
+        Hscript.damageHP(damage);               //HP�o�[�̏���
+
+        state = State.damage;
+
+        if (Break <= 0)//�G�L�����N�^�[�̂g�o���O�̏ꍇ
+        {
+            //�X�R�A���Z�p�X�N���v�g
+            Destroy(this.gameObject);
+            Instantiate(popEffect,transform.position, transform.rotation);
+            AudioSource.PlayClipAtPoint(audioDeath, transform.position, 1f);
+        }
+    }
+
+    void StopGuard() //���̏�ɂƂǂ܂�
+    {
+        pos = transform.position;
+        transform.position = pos;
+    }
+
+    void EDamage()  //��u�~�܂��āA�܂��O�i���
+    {
+
+        // ���Ԃ𑝂₷
+        damageTimer += Time.deltaTime;
+
+        //���Ԃ��O�D�T�߂���ƑO�ɓ����n�߂�
+        if (damageTimer >= 0.5)
+        {
+            damageTimer = 0;
+            state = State.move;
+        }
+    }
+}

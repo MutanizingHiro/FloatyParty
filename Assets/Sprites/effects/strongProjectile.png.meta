@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 8488c673f6cb06842b1fd0ae58dd055b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4346557516355455862
+    second: strongProjectile_0
+  - first:
+      213: -3330625730889333838
+    second: strongProjectile_1
+  - first:
+      213: 2192006814770555280
+    second: strongProjectile_2
+  - first:
+      213: -7114512942969665022
+    second: strongProjectile_3
+  - first:
+      213: 4349389938934763576
+    second: strongProjectile_4
+  - first:
+      213: -6981261224770570854
+    second: strongProjectile_5
+  - first:
+      213: -8971092745649002763
+    second: strongProjectile_6
+  - first:
+      213: 8512454902772095343
+    second: strongProjectile_7
+  - first:
+      213: -3777192218413093376
+    second: strongProjectile_8
+  - first:
+      213: 7026642383279872331
+    second: strongProjectile_9
+  - first:
+      213: -334643882037656659
+    second: strongProjectile_10
+  - first:
+      213: -5689711407968061989
+    second: strongProjectile_11
+  - first:
+      213: -5161190331334272481
+    second: strongProjectile_12
+  - first:
+      213: -4312670899577400861
+    second: strongProjectile_13
+  - first:
+      213: 2495507359799391136
+    second: strongProjectile_14
+  - first:
+      213: -5291044764133317160
+    second: strongProjectile_15
+  - first:
+      213: -2222090608393885939
+    second: strongProjectile_16
+  - first:
+      213: 5927611354734170060
+    second: strongProjectile_17
+  - first:
+      213: 7271390709338276226
+    second: strongProjectile_18
+  - first:
+      213: 3984914132479083430
+    second: strongProjectile_19
+  - first:
+      213: 5194664016794488513
+    second: strongProjectile_20
+  - first:
+      213: -5553775422926553224
+    second: strongProjectile_21
+  - first:
+      213: 6261256871223305719
+    second: strongProjectile_22
+  - first:
+      213: 3070104186216121557
+    second: strongProjectile_23
+  - first:
+      213: 1959200919351562701
+    second: strongProjectile_24
+  - first:
+      213: 3074817672621179647
+    second: strongProjectile_25
+  - first:
+      213: 8119808988502849205
+    second: strongProjectile_26
+  - first:
+      213: 4484886003976583439
+    second: strongProjectile_27
+  - first:
+      213: 9113840768269710102
+    second: strongProjectile_28
+  - first:
+      213: -2448695654045011156
+    second: strongProjectile_29
+  - first:
+      213: -6181586808522491547
+    second: strongProjectile_30
+  - first:
+      213: -1058478167507482437
+    second: strongProjectile_31
+  - first:
+      213: -3417216552906772943
+    second: strongProjectile_32
+  - first:
+      213: 4179118246675623074
+    second: strongProjectile_33
+  - first:
+      213: 3536434836575748691
+    second: strongProjectile_34
+  - first:
+      213: 1872553551685561829
+    second: strongProjectile_35
+  - first:
+      213: -8839455892873618193
+    second: strongProjectile_36
+  - first:
+      213: -6664344192749338847
+    second: strongProjectile_37
+  - first:
+      213: 3212747732873342780
+    second: strongProjectile_38
+  - first:
+      213: 1387310141910569720
+    second: strongProjectile_39
+  - first:
+      213: -9179555675351044398
+    second: strongProjectile_40
+  - first:
+      213: -1693098271515086775
+    second: strongProjectile_41
+  - first:
+      213: 1745709739250764566
+    second: strongProjectile_42
+  - first:
+      213: -4361919330032717302
+    second: strongProjectile_43
+  - first:
+      213: 6578912115194706310
+    second: strongProjectile_44
+  - first:
+      213: 8556731828413258021
+    second: strongProjectile_45
+  - first:
+      213: 4404044421584844852
+    second: strongProjectile_46
+  - first:
+      213: -3582095440869045727
+    second: strongProjectile_47
+  - first:
+      213: 2846728118462580459
+    second: strongProjectile_48
+  - first:
+      213: -772846600311132985
+    second: strongProjectile_49
+  - first:
+      213: -5301192879867603716
+    second: strongProjectile_50
+  - first:
+      213: -8112778242027441408
+    second: strongProjectile_51
+  - first:
+      213: 6191163848091221290
+    second: strongProjectile_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: strongProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c87ac8e21efeae49a2ab10b6aa1bf7b
+      internalID: -629961433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 780
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2502b104fdcdd2b47b19e42b1ca6e584
+      internalID: 1400744271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 780
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5022353fb820ce43a44d78fccaa78a9
+      internalID: -1537058942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_3
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 780
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f622e567ea1902149b12542c97c3cca5
+      internalID: -645713751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e763fc60bc6ad14b9179cafe75fee31
+      internalID: 2017449028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 390
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc2a9fab62ab574a8fbe959fbbf22b6
+      internalID: 1872563142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_6
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 390
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42614f87064a2234190c90e3bc6b757a
+      internalID: 1339075194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_7
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 390
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80a5e19d81a0114199661fb4cb07559
+      internalID: -1224005650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8dac3f1b527b5459505257afdb4a59
+      internalID: -1603369320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33fd18f75152a40adff6481009d791
+      internalID: 1843437573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4412269beb3cc84192eec8acbc4f88a
+      internalID: 2002902073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: strongProjectile_11
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 0
+        width: 410
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5af471d39a31e49a4177db50dcefdf
+      internalID: 86398120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 867c786c53df7f7499b113a9431ba2ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      strongProjectile_0: -629961433
+      strongProjectile_1: 1400744271
+      strongProjectile_10: 2002902073
+      strongProjectile_11: 86398120
+      strongProjectile_2: -1537058942
+      strongProjectile_3: -645713751
+      strongProjectile_4: 2017449028
+      strongProjectile_5: 1872563142
+      strongProjectile_6: 1339075194
+      strongProjectile_7: -1224005650
+      strongProjectile_8: -1603369320
+      strongProjectile_9: 1843437573
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

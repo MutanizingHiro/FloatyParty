@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 404aab2899c59e248ad3ce11524dd2e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8740110483769735042
+    second: seafoamAnimation_0
+  - first:
+      213: 8992423227244120409
+    second: seafoamAnimation_1
+  - first:
+      213: 7422847467809521135
+    second: seafoamAnimation_2
+  - first:
+      213: -6292153913840877851
+    second: seafoamAnimation_3
+  - first:
+      213: -8419156626808391995
+    second: seafoamAnimation_4
+  - first:
+      213: -9218766297120979715
+    second: seafoamAnimation_5
+  - first:
+      213: 8078685352601128625
+    second: seafoamAnimation_6
+  - first:
+      213: -2237308864196578755
+    second: seafoamAnimation_7
+  - first:
+      213: 1717366760948450793
+    second: seafoamAnimation_8
+  - first:
+      213: -200120559114683003
+    second: seafoamAnimation_9
+  - first:
+      213: 939094566573998192
+    second: seafoamAnimation_10
+  - first:
+      213: 8588277644686255984
+    second: seafoamAnimation_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seafoamAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1274
+        width: 665
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78cc3572d3e4b680800000000000000
+      internalID: -8740110483769735042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1279
+        width: 711
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598bd108418bcc70800000000000000
+      internalID: 8992423227244120409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1279
+        width: 780
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedb1bca170430760800000000000000
+      internalID: 7422847467809521135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 1279
+        width: 759
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee3e654a57cda8a0800000000000000
+      internalID: -6292153913840877851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 639
+        width: 706
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6b5be87a5292b80800000000000000
+      internalID: -8419156626808391995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 639
+        width: 633
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4c2c855ec501080800000000000000
+      internalID: -9218766297120979715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 639
+        width: 657
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be01f586814d1070800000000000000
+      internalID: 8078685352601128625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 639
+        width: 709
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32fab8117b73f0e0800000000000000
+      internalID: -2237308864196578755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 783
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5456758ff45d710800000000000000
+      internalID: 1717366760948450793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 0
+        width: 769
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d77b96967093df0800000000000000
+      internalID: -200120559114683003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 0
+        width: 675
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07084236885580d00800000000000000
+      internalID: 939094566573998192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seafoamAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 0
+        width: 653
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077e3f3e301bf2770800000000000000
+      internalID: 8588277644686255984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      seafoamAnimation_0: -8740110483769735042
+      seafoamAnimation_1: 8992423227244120409
+      seafoamAnimation_10: 939094566573998192
+      seafoamAnimation_11: 8588277644686255984
+      seafoamAnimation_2: 7422847467809521135
+      seafoamAnimation_3: -6292153913840877851
+      seafoamAnimation_4: -8419156626808391995
+      seafoamAnimation_5: -9218766297120979715
+      seafoamAnimation_6: 8078685352601128625
+      seafoamAnimation_7: -2237308864196578755
+      seafoamAnimation_8: 1717366760948450793
+      seafoamAnimation_9: -200120559114683003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
