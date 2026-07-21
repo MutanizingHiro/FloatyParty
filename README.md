@@ -1,4 +1,4 @@
-# FloatyParty
+# Floaty Party
 防衛シューティング型2Dゲームである。ライフガードとなり、水鉄砲で浮き輪の侵略者を撃ち落としながら、できるだけ長く海岸を守り抜く。ただし、プレイヤーの近くで浮き輪を撃ちすぎると心臓発作を起こし、ゲームオーバーになる。  
 
 ## 開発環境
@@ -17,7 +17,7 @@ AI活用：なし<br>
 -アニメーター<br>
 
 ## 主な実装
-タゲットアイコンの UI Cancas に Render Mode を World Space に設定して、マウスの位置を正確に追跡する。
+タゲットアイコンの UI Canvas に Render Mode を World Space に設定して、マウスの位置を正確に追跡する。
 ```
 Vector3 worldMousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 transform.position = new Vector3(worldMousePos.x,worldMousePos.y,0);
